@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "task-Mazzle-core",
+      "appliesTo": "Mazzle-core/",
+      "type": "launch"
+    },
+    {
+      "taskName": "task-Mazzle",
+      "appliesTo": "Mazzle.sln",
+      "type": "launch"
+    }
+  ]
+}
